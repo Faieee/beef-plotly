@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url(/jumbotron.jpg);
+}
+
+.col-md-5 {
+    border: double;
+    background-color: white;
+}
+
+.col-md-12 {
+    border: double;
+    background-color: white;
+}
